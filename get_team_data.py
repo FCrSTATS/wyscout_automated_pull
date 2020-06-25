@@ -17,8 +17,6 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import Select
-from wyscout_functions import wait_for_page_id
-from wyscout_functions import wait_for_page_class
 
 ## Functions
 
